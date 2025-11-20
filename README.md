@@ -1,6 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
-## NAME:Dharunyadevi S
-## REGISTER NUMBER:212223220018
+## NAME:Vikaash P
+## REGISTER NUMBER:212223240180
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
